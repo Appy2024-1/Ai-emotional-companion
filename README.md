@@ -16,10 +16,7 @@ A beautiful **magenta-themed AI chatbot** designed for **emotional support** and
 - 🧠 **Context-aware AI Agents**  
   Utilizes AI agents to understand emotional tone and provide personalized replies.
 
-## 🚀 Demo
 
-👉 [Live Demo](#) – *Add your link here*  
-📷 ![Chatbot Screenshot](screenshot.png) – *Add a screenshot of the UI here*
 
 ## 🛠️ Tech Stack
 
